@@ -14,7 +14,7 @@ bool BitmapImage::load(std::string name) {
     }
     return false;
 }
-
+// ciao
 BitmapImage::~BitmapImage() {
     delete[] buffer;
 }
